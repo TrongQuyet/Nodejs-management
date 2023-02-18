@@ -39,3 +39,6 @@ form {
 form.upload-form {
   display: contents;
 }
+.upload-container {
+  text-align: center;
+}
